@@ -1,0 +1,182 @@
+* Kışın en soğuk zamanı
+  <2018-01-26 Fri +1y>
+* Ayandan Fırtınası
+  <2018-01-30 Tue +1y>
+* Erbain’in (Zemherinin, 40 günlük kış döneminin) bitişi   
+  <2018-01-30 Tue +1y>
+* Hamsin fırtınası
+  <2018-02-01 Thu +1y>
+* Çiftlik hayvanların çiftleşme döneminin başlangıcı
+  <2018-02-03 Sat +1y>
+* Ağaç dikme zamanı
+  <2018-02-06 Tue +1y>
+* Kuşların çiftleşme dönemi
+  <2018-02-18 Sun +1y>
+* Cemrenin havaya düşmesi
+  <2018-02-20 Tue +1y>
+* Cemrenin suya düşmesi
+  <2018-02-27 Tue +1y>
+* Leyleklerin gelmeye başlaması
+  <2018-02-28 Wed +1y>
+* Soğukların şiddetinin azalmaya başlaması
+  <2018-03-03 Sat +1y>
+* Ağaçlara su yürümesi
+  <2018-03-05 Mon +1y>
+* Cemrenin toprağa düşmesi
+  <2018-03-06 Tue +1y>
+* Bağ budama zamanı
+  <2018-03-09 Fri +1y>
+* Kocakarı soğuklrının başlangıcı (7 gün)
+  <2018-03-11 Sun +1y>
+* Husum Fırtınası
+  <2018-03-12 Mon +1y>
+* Kaplumbağaların kış uykusundan uyanması
+  <2018-03-14 Wed +1y>
+* Kırlangıçların ve ebabillerin gelmeye başlaması
+  <2018-03-15 Thu +1y>
+* Günle gecenin eşitlenmesi, Nevruz, baharın başlangıcı
+  <2018-03-21 Wed +1y>
+* Mart dokuzu fırtınası
+  <2018-03-22 Thu +1y>
+* Çaylak fırtınası
+  <2018-03-25 Sun +1y>
+* Ağaçların tomurcuklanmaya ve yeşermeye başlaması
+  <2018-03-27 Tue +1y>
+* Çaylakların gelişi
+  <2018-03-30 Fri +1y>
+* Çiçeklenme döneminin başlaması
+  <2018-04-03 Tue +1y>
+* Bülbüllerin ötmesi ve yörüklerin yaylalara çıkması
+  <2018-04-05 Thu +1y>
+* Kırlangıç Fırtınası
+  <2018-04-07 Sat +1y> 
+* Leylek Fırtınası
+  <2018-04-11 Wed +1y>
+* Lale mevsiminin başlangıcı, Camuskıran Fırtanası
+  <2018-04-16 Mon +1y>
+* Kuğu Fırtınası (3 gün sürer)
+  <2018-02-17 Sat +1y>
+* Sitte-i Sevir (6 gün boyunca süren soğuk ve fırtına), Boğa Fırtınası
+  <2018-04-21 Sat +1y>
+* İpekböceklerinin yumurtadan çıkışı
+  <2018-04-24 Tue +1y>
+* Arıların yumurtadan çıkışı, güllerin budanma zamanı
+  <2018-04-26 Thu +1y>
+* Kalem aşısı zamanı
+  <2018-04-27 Fri +1y>
+* Serçelerin yavrulama dönemi
+  <2018-04-29 Sun +1y>
+* Lale Fırtınası
+  <2018-04-30 Mon +1y>
+* Çiçek Fırtınası (3 gün sürer)
+  <2018-05-02 Wed +1y>
+* Hıdrellez
+  <2018-05-06 Sun +1y>
+* Kırkikindi Yağmurları'nın sonu
+  <2018-05-11 Fri +1y>
+* Filizkıran Fırtınası
+  <2018-05-16 Wed +1y>
+* Engirkıran Fırtınası, Kokulya Fırtınası, Ülker Fırtınası, bağların çapalanma zamanı (3 gün sürer)
+  <2018-05-20 Sun +1y>
+* Suyun topraktan çekilmeye başlaması
+  <2018-05-29 Tue +1y>
+* Koyun kırkma zamanı
+  <2018-05-28 Mon +1y>
+* Bağlara yerleşme zamanı, Kabak Meltemi
+  <2018-05-30 Wed +1y>
+* Arpanın orağa gelmesi, pirinç ekimi
+  <2018-06-07 Thu +1y>
+* Ülkerdoğumu Fırtınası
+  <2018-06-10 Sun +1y>
+* En uzun günlerin başlangıcı
+  <2018-06-16 Sat +1y>
+* Gündönümü Fırtınası
+  <2018-06-19 Tue +1y>
+* Yaprak aşısı zamanı
+  <2018-06-24 Sun +1y>
+* Kızılak Fırtınası
+  <2018-06-27 Wed +1y>
+* Günlerin kısalmaya başlaması
+  <2018-06-29 Fri +1y>
+* Yaprak Fırtınası
+  <2018-07-01 Sun +1y>
+* Samyellerinin başlangıcı
+  <2018-07-03 Tue +1y>
+* Çarkdönümü fırtınası
+  <2018-07-11 Wed +1y>
+* Karaerik Fırtınası (3 gün sürer)
+  <2018-07-24 Tue +1y>
+* Kızılerik Fırtınası (2 gün sürer)
+  <2018-07-29 Sun +1y>
+* Yılın en sıcak günlerinin başlangıcı
+  <2018-08-01 Wed +1y>
+* Arıların bal tutmaları
+  <2018-08-05 Sun +1y>
+* Pamuk toplama zamanı
+  <2018-08-12 Sun +1y>
+* Yemişlerin olgunlaşması
+  <2018-08-18 Sat +1y>
+* Mihrican Fırtınası
+  <2018-08-24 Fri +1y>
+* Samyellerinin sonu
+  <2018-08-25 Sat +1y>
+* Leyleklerin göçmeye başlaması
+  <2018-08-28 Tue +1y>
+* Mercan Fırtınası
+  <2018-08-31 Fri +1y>
+* Bıldırcın Fırtınası
+  <2018-09-06 Thu +1y>
+* Yazsonu Fırtınası, sebzelerin soğuklardan etkilenmeye başlaması
+  <2018-09-07 Fri +1y>
+* Koç ayırma zamanı
+  <2018-09-08 Sat +1y>
+* Çaylak Fırtınası
+  <2018-09-13 Thu +1y>
+* Bağbozumu zamanı
+  <2018-09-15 Sat +1y>
+* Günle gecenin eşitlenmesi
+  <2018-09-21 Fri +1y>
+* Koç katımı zamanı
+  <2018-09-23 Sun +1y>
+* Kestane Karası Fırtınası (3 gün sürer)
+  <2018-09-25 Tue +1y>
+* Turna Geçimi Fırtınası, turnaların göçü
+  <2018-09-29 Sat +1y>
+* Kırlangıç ve ebabillerin göç etmesi
+  <2018-09-30 Sun +1y>
+* Koç Katımı Fırtınası (2 gün sürer)
+  <2018-10-04 Thu +1y>
+* Meryem Ana Fırtınası (2 gün sürer)
+  <2018-10-12 Fri +1y>
+* Yaprak Dökümü Fırtınası, kaplumbağaların kış uykusuna yatması
+  <2018-10-14 Sun +1y>
+* Kırlangıç Fırtınası
+  <2018-10-17 Wed +1y>
+* Bağbozumu Fırtınası
+  <2018-10-19 Fri +1y>
+* Ağaç dikimi ve çelikleme zamanı
+  <2018-10-20 Sat +1y>
+* Bağbozumunun bitişi
+  <2018-10-21 Sun +1y>
+* Ağaçların budanması
+  <2018-10-31 Wed +1y>
+* Lodos Rüzgarları
+  <2018-11-04 Sun +1y>
+* Kuş Geçimi Fırtınası
+  <2018-11-05 Mon +1y>
+* Çiğ düşmeye başlması
+  <2018-11-09 Fri +1y>
+* Pastırma Yazı sıcakları
+  <2018-11-11 Sun +1y>
+* Haşerenin gizlenmesi
+  <2018-11-22 Thu +1y>
+* Ağaçlardan suyun çekilmesi, ülker fırtınası
+  <2018-11-30 Fri +1y>
+* İkinci Pastırma Sıcakları
+  <2018-12-01 Sat +1y>
+* Karakış Fırtınası (3 gün sürer)
+  <2018-12-08 Sat +1y>
+* Erbain’in başlangıcı (Zemherinin başlangıcı, 40 günlük soğuk kış zamanı), en uzun gecelerin başlangıcı
+  <2019-02-21 Thu +1y>
+* En uzun gecelerin sonu, Gündönümü Fırtınası (3 gün sürer)
+  <2018-12-26 Wed +1y>
