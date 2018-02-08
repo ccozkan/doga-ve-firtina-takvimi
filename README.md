@@ -1,5 +1,5 @@
 # Doğa Takvimi
-ics (iCalendar)  formatında doğanın geleneksel takvimi. Emacs org-mode'da yazıp ics olarak dışa aktarı
+ics (iCalendar)  formatında doğanın geleneksel takvimi. 
 
 ### Yükleme
 dogatakvimi.ics'yi indirin ve takvim uygulamasıyla (Splanner, iCalendar, Outlook, ... vs) içeri aktarın.
