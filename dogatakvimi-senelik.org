@@ -1,0 +1,118 @@
+* Kışın en soğuk zamanı
+  <2018-01-26 Fri +1y>
+* Erbain’in (Zemherinin, 40 günlük kış döneminin) bitişi   
+  <2018-01-31 Wed +1y>
+* Çiftlik hayvanların çiftleşme döneminin başlangıcı
+  <2018-02-03 Sat +1y>
+* Ağaç dikme zamanı
+  <2018-02-06 Tue +1y>
+* Kuşların çiftleşme dönemi
+  <2018-02-18 Sun +1y>
+* Leyleklerin gelmeye başlaması
+  <2018-02-28 Wed +1y>
+* Soğukların şiddetinin azalmaya başlaması
+  <2018-03-03 Sat +1y>
+* Ağaçlara su yürümesi
+  <2018-03-05 Mon +1y>
+* Bağ budama zamanı
+  <2018-03-09 Fri +1y>
+* Kaplumbağaların kış uykusundan uyanması
+  <2018-03-14 Wed +1y>
+* Kırlangıçların ve ebabillerin gelmeye başlaması
+  <2018-03-15 Thu +1y>
+* Günle gecenin eşitlenmesi, Nevruz, baharın başlangıcı
+  <2018-03-21 Wed +1y>
+* Ağaçların tomurcuklanmaya ve yeşermeye başlaması
+  <2018-03-27 Tue +1y>
+* Çaylakların gelişi
+  <2018-03-30 Fri +1y>
+* Çiçeklenme döneminin başlaması
+  <2018-04-03 Tue +1y>
+* Bülbüllerin ötmesi ve yörüklerin yaylalara çıkması
+  <2018-04-05 Thu +1y> 
+* Leylek Fırtınası
+  <2018-04-11 Wed +1y>
+* Lale mevsiminin başlangıcı
+  <2018-04-16 Mon +1y>
+* İpekböceklerinin yumurtadan çıkışı
+  <2018-04-24 Tue +1y>
+* Arıların yumurtadan çıkışı, güllerin budanma zamanı
+  <2018-04-26 Thu +1y>
+* Kalem aşısı zamanı
+  <2018-04-27 Fri +1y>
+* Serçelerin yavrulama dönemi
+  <2018-04-29 Sun +1y>
+* Lale Fırtınası
+  <2018-04-30 Mon +1y>
+* Hıdrellez
+  <2018-05-06 Sun +1y>
+* Kırkikindi Yağmurları'nın sonu
+  <2018-05-11 Fri +1y>
+* Bağların çapalanma zamanı
+  <2018-05-20 Sun +1y>
+* Suyun topraktan çekilmeye başlaması
+  <2018-05-29 Tue +1y>
+* Koyun kırkma zamanı
+  <2018-05-28 Mon +1y>
+* Bağlara yerleşme zamanı, Kabak Meltemi
+  <2018-05-30 Wed +1y>
+* Arpanın orağa gelmesi, pirinç ekimi
+  <2018-06-07 Thu +1y>
+* En uzun günlerin başlangıcı
+  <2018-06-16 Sat +1y>
+* Yaprak aşısı zamanı
+  <2018-06-24 Sun +1y>
+* Günlerin kısalmaya başlaması
+  <2018-06-29 Fri +1y>
+* Karaerik Fırtınası (3 gün sürer)
+  <2018-07-24 Tue +1y>
+* Yılın en sıcak günlerinin başlangıcı
+  <2018-08-01 Wed +1y>
+* Arıların bal tutmaları
+  <2018-08-05 Sun +1y>
+* Pamuk toplama zamanı
+  <2018-08-12 Sun +1y>
+* Yemişlerin olgunlaşması
+  <2018-08-18 Sat +1y>
+* Leyleklerin göçmeye başlaması
+  <2018-08-28 Tue +1y>
+* Mercan Fırtınası
+  <2018-08-31 Fri +1y>
+* Sebzelerin soğuklardan etkilenmeye başlaması
+  <2018-09-07 Fri +1y>
+* Koç ayırma zamanı
+  <2018-09-08 Sat +1y>
+* Bağbozumu zamanı
+  <2018-09-15 Sat +1y>
+* Günle gecenin eşitlenmesi
+  <2018-09-21 Fri +1y>
+* Koç katımı zamanı
+  <2018-09-23 Sun +1y>
+* Kırlangıç ve ebabillerin göç etmesi
+  <2018-09-30 Sun +1y>
+* Kaplumbağaların kış uykusuna yatması
+  <2018-10-14 Sun +1y>
+* Bağbozumu Fırtınası
+  <2018-10-19 Fri +1y>
+* Ağaç dikimi ve çelikleme zamanı
+  <2018-10-20 Sat +1y>
+* Bağbozumunun bitişi
+  <2018-10-21 Sun +1y>
+* Ağaçların budanması
+  <2018-10-31 Wed +1y>
+* Lodos Rüzgarları
+  <2018-11-04 Sun +1y>
+* Çiğ düşmeye başlması
+  <2018-11-09 Fri +1y>
+* Pastırma Yazı sıcakları
+  <2018-11-11 Sun +1y>
+* Haşerenin gizlenmesi
+  <2018-11-22 Thu +1y>
+* Ağaçlardan suyun çekilmesi
+  <2018-11-30 Fri +1y>
+* İkinci Pastırma Sıcakları
+  <2018-12-01 Sat +1y>
+* Erbain’in başlangıcı (Zemherinin başlangıcı, 40 günlük soğuk kış zamanı), en uzun gecelerin başlangıcı
+  <2019-02-21 Thu +1y>
+* En uzun gecelerin sonu
+  <2018-12-26 Wed +1y>
